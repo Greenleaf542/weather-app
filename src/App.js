@@ -6,6 +6,7 @@ function App() {
     <div>
       <h1>Shrawan Thakur</h1>
       <p>Hi my name is shrawan thakur</p>
+      <p>Frontend developer</p>
     </div>
   );
 }
